@@ -19,3 +19,4 @@ function verMas () {
         boton.className = 'btn btn-outline-primary'
     }
 }
+
